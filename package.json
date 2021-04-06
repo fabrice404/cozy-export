@@ -1,0 +1,15 @@
+{
+  "name": "cozy-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cozy-ach": "^1.31.0",
+    "dotenv": "^8.2.0"
+  }
+}
